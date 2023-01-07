@@ -31,4 +31,5 @@ help us with push requests
 
 ## Other Websites
 [Iran Resistance](https://iranresistance.com/): Has a section for artwork and petitions section. Unsure if its being updated.
-[Global Iranian Association](https://www.globaliranianassociation.com/): a worldwide, non-partisan, group of 100+ volunteers of the Iranian diaspora. s
+[Global Iranian Association](https://www.globaliranianassociation.com/): a worldwide, non-partisan, group of 100+ volunteers of the Iranian diaspora.
+[Azadi-b.com](https://www.azadi-b.com/): A website where some old revolutionaries write their ideas. Site is still stuck in 2000s Wordpress UI though.
