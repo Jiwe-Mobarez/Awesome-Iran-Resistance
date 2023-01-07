@@ -30,9 +30,13 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 
 ## Tools
 * [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
-<!-- ## Protests
+## Protests
 ### First aid guides
+* [https://t.me/ryanmcbethtelegram](https://t.me/ryanmcbethtelegram): a telegram channel with a few usefull guides.
+
 ### Staying Safe in Protests
+* [twitter@F_karamizand](https://twitter.com/F_karamizand)
+<!--
 ### roles
 ## Future of Iran
 ### manifestos
@@ -56,5 +60,7 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 * [Iran Resistance](https://iranresistance.com/): Has a section for artwork and petitions section. Unsure if its being updated.
 * [Global Iranian Association](https://www.globaliranianassociation.com/): a worldwide, non-partisan, group of 100+ volunteers of the Iranian diaspora.
 * [We Are Mahsa Amini](https://wearemahsaamini.com/): A group of people aimed to help Iran move forwards
+* [WomenLifeFreedom](https://www.womenlifefreedom.com/)
+* [Change.org](https://www.change.org/)
 * [Azadi-b.com](https://www.azadi-b.com/): A website where some old revolutionaries write their ideas. Site is still stuck in 2000s Wordpress UI though.
 
