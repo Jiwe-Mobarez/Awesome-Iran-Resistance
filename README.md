@@ -31,11 +31,14 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 ## Tools
 * [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
 ## Protests
+### Chants
+* [List of Chants](https://docs.google.com/spreadsheets/d/1w0H2AjCpgUHJzWlpVDr5vs4iGb22UWMbWlVNCjMTz50/edit#gid=0): A list of over 250+ chants.
 ### First aid guides
 * [https://t.me/ryanmcbethtelegram](https://t.me/ryanmcbethtelegram): a telegram channel with a few usefull guides.
 
 ### Staying Safe in Protests
 * [twitter@F_karamizand](https://twitter.com/F_karamizand)
+* [How to survive rape in prison](https://iranhrdc.org/surviving-rape-in-irans-prisons/amp/)
 <!--
 ### roles
 ## Future of Iran
