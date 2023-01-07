@@ -9,15 +9,22 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
     - [Iranian Forums](#iranian-forums)
     - [Protests](#protests)
     - [Better Governance](#better-governance)
+    - more to come soon. i appreciate your help
 
 ----
 
 ## Trusted News Sources
 
+### Twitter
+
 * [twitter@BlackIranians](https://twitter.com/BlackIranians)
 * [twitter@1500tasvir_en](https://twitter.com/1500tasvir_en)
 * [twitter@Omid_M](https://twitter.com/Omid_M)
 * [twitter@Vahid](https://twitter.com/Vahid)
+
+### Websites
+* [IranWire](https://iranwire.com/en/): IranWire is a collaborative news website run by professional Iranian journalists.
+* [IranIntl](https://www.iranintl.com/en): Iran International has been covering what has been going on pretty well as a traditional tv channel. They don't cover many important news of iran so have other sources you regularly check as well.
 
 <!-- ## Protests
 ### First aid guides
