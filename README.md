@@ -39,6 +39,7 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 ### Staying Safe in Protests
 * [twitter@F_karamizand](https://twitter.com/F_karamizand)
 * [How to survive rape in prison](https://iranhrdc.org/surviving-rape-in-irans-prisons/amp/)
+* [Safe Activism Booklet](https://united4iran.org/fa/safe-activism/#download): «فعالیت امن» مجموعه‌ای از اطلاعات کلیدی برای کاهش خطر بازداشت، اداره روند بازجویی و تسکین پیامدهای زندان است. در این جزوه فهرستی از کاربردی‌ترین توصیه‌های بیش از ۳۰ فعال ایرانی برای مراحل مختلف پیش و پس از بازداشت و در طی آن ارائه شده است
 <!--
 ### roles
 ## Future of Iran
@@ -65,5 +66,6 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 * [We Are Mahsa Amini](https://wearemahsaamini.com/): A group of people aimed to help Iran move forwards
 * [WomenLifeFreedom](https://www.womenlifefreedom.com/)
 * [Change.org](https://www.change.org/)
+* [United 4 Iran](https://united4iran.org/en/)
 * [Azadi-b.com](https://www.azadi-b.com/): A website where some old revolutionaries write their ideas. Site is still stuck in 2000s Wordpress UI though.
 
