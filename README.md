@@ -20,18 +20,26 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 * [twitter@Vahid](https://twitter.com/Vahid)
 
 <!-- ## Protests
+### First aid guides
 ### Staying Safe in Protests
-## Future of Iran ## Iranian Forums -->
+### roles
+## Future of Iran
+### manifestos
+### parties
+### democracy advocates
+### 21 century modern organizations that can help us move forwards
+### awesome iranians and civil initiatives
+## Iranian Forums
+### discord
+### reddit
+-->
 
 ## Better Governance
 
 * [osAIRAN](https://github.com/osAIran): They write about the future of Iran. They are currently working on transparency. They care about open source governance a great deal.
 * [Iran Digital Democracy](https://github.com/irandigitaldemocracy): They aim to create better platforms for voting. Also they believe transparency is a big deal.
 * [tcfev](https://github.com/tcfev): A non-profit not-governmental heterarchical civic innovation lab
-<!--
-## Democracy Advocates
 
-## Political Parties-->
 
 ## Other Websites
 * [Iran Resistance](https://iranresistance.com/): Has a section for artwork and petitions section. Unsure if its being updated.
