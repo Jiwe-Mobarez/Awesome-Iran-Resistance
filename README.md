@@ -1,5 +1,7 @@
 # Awesome Iran Resistance
 
+<img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/ZanZendegiAzadi.png?raw=true">
+
 A curated list of awesome resources about active resistance, civil resistance, the future of Iran, resources for when internet shuts down, etc.
 
 help us with push requests or contact me on reddit u/jiwe-mobarez
@@ -26,6 +28,8 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 * [IranWire](https://iranwire.com/en/): IranWire is a collaborative news website run by professional Iranian journalists.
 * [IranIntl](https://www.iranintl.com/en): Iran International has been covering what has been going on pretty well as a traditional tv channel. They don't cover many important news of iran so have other sources you regularly check as well.
 
+## Tools
+* [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
 <!-- ## Protests
 ### First aid guides
 ### Staying Safe in Protests
