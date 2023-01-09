@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/ZanZendegiAzadi.png?raw=true">
 
-A curated list of awesome resources about active resistance, civil resistance, the future of Iran, resources for when internet shuts down, etc.
+A curated list of all awesome resistance resources against the islamic regime of IR. Includin resources on active resistance, civil resistance, the future of Iran, resources for when internet shuts down, democracy, governance, etc.
 
-help us with push requests or contact me on reddit u/jiwe-mobarez
+help us with pull requests or contact me on reddit u/jiwe-mobarez :)
 
 - [Awesome Iran Resistance](#awesome-iran-resistance)
     - [Trusted News Sources](#trusted-news-sources)
