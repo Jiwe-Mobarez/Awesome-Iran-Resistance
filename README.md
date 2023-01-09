@@ -7,11 +7,11 @@ A curated list of all awesome resistance resources against the islamic regime of
 If u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit.com/user/jiwe-mobarez/) :)
 
 - [Awesome Iran Resistance](#awesome-iran-resistance)
-    - [Trusted News Sources](#trusted-news-sources)
-    - [Iranian Forums](#iranian-forums)
-    - [Protests](#protests)
-    - [Better Governance](#better-governance)
-    - more to come soon. i appreciate your help
+    - [Our Fight](#our-fight-against-tyranny)
+    - [Our Hopes](#our-hopes-for-the-new-iran)
+    - [Our Land](#our-land)
+    - [Resources for Foreigners](#resources-for-foreigners)
+
 
 ----
 
@@ -83,7 +83,11 @@ Armed resistance resources are beyond the scope of this project. We cannot risk 
 * [Iran Digital Democracy](https://github.com/irandigitaldemocracy): They aim to create better platforms for voting. Also they believe transparency is a big deal.
 * [tcfev](https://github.com/tcfev): A non-profit not-governmental heterarchical civic innovation lab
 
-## Foreigners
+## Our Beautiful Motherland: Iran
+### Culture
+#### Music
+### Landscapes
+## Resources for Foreigners
 
 ### Resources on How You Can Help the Iranians
 
