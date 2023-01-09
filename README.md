@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Jiwe-Mobarez/Better-Democracy/blob/main/Assets/Images/General/ZanZendegiAzadi.png?raw=true">
 
-A curated list of all awesome resistance resources against the islamic regime of IR. Includin resources on active resistance, civil resistance, the future of Iran, resources for when internet shuts down, democracy, governance, etc.
+A curated list of all awesome resistance resources against the islamic regime of IR. Includin resources on civil resistance, the future of Iran, resources for when internet shuts down, democracy, governance, etc.
 
-if u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit.com/user/jiwe-mobarez/) :)
+If u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit.com/user/jiwe-mobarez/) :)
 
 - [Awesome Iran Resistance](#awesome-iran-resistance)
     - [Trusted News Sources](#trusted-news-sources)
@@ -19,6 +19,7 @@ if u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit
 ### Digital Resistance
 
 * [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
+* [revolutionary posters google drive](https://drive.google.com/drive/folders/1x5ltclswHy8zhv-gbR3FK8GfhNfmoB_t)
 ### Trusted News Sources
 #### Twitter
 
@@ -85,6 +86,20 @@ Armed resistance resources are beyond the scope of this project. We cannot risk 
 ## Foreigners
 
 ### Resources on How You Can Help the Iranians
+
+* [Read this reddit post and all comments for more info](https://old.reddit.com/r/NewIran/comments/yc7jbs/help_us_create_a_central_place_for_content_and/)
+* Install TOR Snowflake: https://snowflake.torproject.org/
+* [Read this google doc for even more info](https://docs.google.com/document/d/1DjSDd4MHlgEmXbuhWpV2g3RrVsEUpT0xKPVarzjkCKc/)
+
+#### Write to your officials: Resources for finding your representatives for English-speaking countries:
+
+* USA: http://www.house.gov/representatives/find-your-representative
+* UK: https://members.parliament.uk/FindYourMP
+* Canada: https://www.ourcommons.ca/members/en
+* Australia: https://www.aph.gov.au/Senators_and_Members/Members
+* New Zealand: https://www.govt.nz/browse/engaging-with-government/members-of-parliament/
+
+
 ### Learn About Iran
 
 ### International Human rights
