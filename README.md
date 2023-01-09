@@ -35,23 +35,31 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 * [List of Chants](https://docs.google.com/spreadsheets/d/1w0H2AjCpgUHJzWlpVDr5vs4iGb22UWMbWlVNCjMTz50/edit#gid=0): A list of over 250+ chants.
 ### First aid guides
 * [https://t.me/ryanmcbethtelegram](https://t.me/ryanmcbethtelegram): a telegram channel with a few usefull guides.
-
 ### Staying Safe in Protests
 * [twitter@F_karamizand](https://twitter.com/F_karamizand)
+
+## keep yourself safe
 * [How to survive rape in prison](https://iranhrdc.org/surviving-rape-in-irans-prisons/amp/)
 * [Safe Activism Booklet](https://united4iran.org/fa/safe-activism/#download): «فعالیت امن» مجموعه‌ای از اطلاعات کلیدی برای کاهش خطر بازداشت، اداره روند بازجویی و تسکین پیامدهای زندان است. در این جزوه فهرستی از کاربردی‌ترین توصیه‌های بیش از ۳۰ فعال ایرانی برای مراحل مختلف پیش و پس از بازداشت و در طی آن ارائه شده است
-<!--
-### roles
+
+
+
 ## Future of Iran
+### list of allies
+* [JokerNejad](https://twitter.com/Jokernejad)
+* [_AliEbrahimzade](https://twitter.com/_AliEbrahimzade)
 ### manifestos
+* [اتحاد جوانان محلات ایران](https://twitter.com/UYI_fa/status/1602669174253563904)
 ### parties
+todo
 ### democracy advocates
-### 21 century modern organizations that can help us move forwards
-### awesome iranians and civil initiatives
+* [Masih Alinejad](https://twitter.com/AlinejadMasih)
+### other individuals and groups
+
 ## Iranian Forums
-### discord
-### reddit
--->
+* [discord@newIran unofficial](https://discord.com/invite/8qbuA4kBQB)
+* [discord@Decentral Iran](https://discord.gg/G3Y5SaRD)
+* [r/NewIran](https://reddit.com/r/NewIran)
 
 ## Better Governance
 
