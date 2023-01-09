@@ -17,18 +17,19 @@ If u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit
 
 ## Our Fight Against Tyranny
 ### Digital Resistance
-
+#### Digital Tools
 * [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
+##### Content Creation
 * [revolutionary posters google drive](https://drive.google.com/drive/folders/1x5ltclswHy8zhv-gbR3FK8GfhNfmoB_t)
-### Trusted News Sources
-#### Twitter
+#### Trusted News Sources
+##### Twitter
 
 * [twitter@BlackIranians](https://twitter.com/BlackIranians)
 * [twitter@1500tasvir_en](https://twitter.com/1500tasvir_en)
 * [twitter@Omid_M](https://twitter.com/Omid_M)
 * [twitter@Vahid](https://twitter.com/Vahid)
 
-#### Websites
+##### Websites
 * [IranWire](https://iranwire.com/en/): IranWire is a collaborative news website run by professional Iranian journalists.
 * [IranIntl](https://www.iranintl.com/en): Iran International has been covering what has been going on pretty well as a traditional tv channel. They don't cover many important news of iran so have other sources you regularly check as well.
 
