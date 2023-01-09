@@ -16,7 +16,6 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 ----
 
 ## Trusted News Sources
-
 ### Twitter
 
 * [twitter@BlackIranians](https://twitter.com/BlackIranians)
@@ -46,6 +45,7 @@ help us with push requests or contact me on reddit u/jiwe-mobarez
 
 ## Future of Iran
 ### list of allies
+* [sam rajabi](https://twitter.com/samrajabii)
 * [JokerNejad](https://twitter.com/Jokernejad)
 * [_AliEbrahimzade](https://twitter.com/_AliEbrahimzade)
 ### manifestos
@@ -56,10 +56,18 @@ todo
 * [Masih Alinejad](https://twitter.com/AlinejadMasih)
 ### other individuals and groups
 
-## Iranian Forums
+* [Iran Resistance](https://iranresistance.com/): Has a section for artwork and petitions section. Unsure if its being updated.
+* [Global Iranian Association](https://www.globaliranianassociation.com/): a worldwide, non-partisan, group of 100+ volunteers of the Iranian diaspora.
+* [We Are Mahsa Amini](https://wearemahsaamini.com/): A group of people aimed to help Iran move forwards
+* [WomenLifeFreedom](https://www.womenlifefreedom.com/)
+* [United 4 Iran](https://united4iran.org/en/)
+
+## Iranian Forums and communities
 * [discord@newIran unofficial](https://discord.com/invite/8qbuA4kBQB)
 * [discord@Decentral Iran](https://discord.gg/G3Y5SaRD)
 * [r/NewIran](https://reddit.com/r/NewIran)
+* [Azadi-b.com](https://www.azadi-b.com/): A website where some old revolutionaries write their ideas. Site is still stuck in 2000s Wordpress UI though.
+
 
 ## Better Governance
 
@@ -67,13 +75,13 @@ todo
 * [Iran Digital Democracy](https://github.com/irandigitaldemocracy): They aim to create better platforms for voting. Also they believe transparency is a big deal.
 * [tcfev](https://github.com/tcfev): A non-profit not-governmental heterarchical civic innovation lab
 
+## Foreigners
+
+### put pressure on regime via international channels
+
+* [Change.org](https://www.change.org/)
+* [Amnesty](https://www.amnesty.org/en/location/middle-east-and-north-africa/iran/)
 
 ## Other Websites
-* [Iran Resistance](https://iranresistance.com/): Has a section for artwork and petitions section. Unsure if its being updated.
-* [Global Iranian Association](https://www.globaliranianassociation.com/): a worldwide, non-partisan, group of 100+ volunteers of the Iranian diaspora.
-* [We Are Mahsa Amini](https://wearemahsaamini.com/): A group of people aimed to help Iran move forwards
-* [WomenLifeFreedom](https://www.womenlifefreedom.com/)
-* [Change.org](https://www.change.org/)
-* [United 4 Iran](https://united4iran.org/en/)
-* [Azadi-b.com](https://www.azadi-b.com/): A website where some old revolutionaries write their ideas. Site is still stuck in 2000s Wordpress UI though.
+temporary until categories are better specified better
 
