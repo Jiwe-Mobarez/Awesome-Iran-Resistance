@@ -19,8 +19,9 @@ If u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit
 ### Digital Resistance
 #### Digital Tools
 * [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
+* [اطلس زندان های ایران](https://ipa.united4iran.org/en/)
 ##### Content Creation
-* [revolutionary posters google drive](https://drive.google.com/drive/folders/1x5ltclswHy8zhv-gbR3FK8GfhNfmoB_t)
+* [revolutionary posters google drive](https://drive.google.com/drive/folders/1x5ltclswHy8zhv-gbR3FK8GfhNfmoB_t): a collection of a few revolutiornary posters i found a while back
 #### Trusted News Sources
 ##### Twitter
 
@@ -32,6 +33,7 @@ If u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit
 ##### Websites
 * [IranWire](https://iranwire.com/en/): IranWire is a collaborative news website run by professional Iranian journalists.
 * [IranIntl](https://www.iranintl.com/en): Iran International has been covering what has been going on pretty well as a traditional tv channel. They don't cover many important news of iran so have other sources you regularly check as well.
+* [indipendent farsi](https://www.independentpersian.com/)
 
 ### Civil Resistance
 #### Protests
