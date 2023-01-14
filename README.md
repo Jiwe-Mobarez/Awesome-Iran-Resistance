@@ -61,7 +61,9 @@ Armed resistance resources are beyond the scope of this project. We cannot risk 
 ### Manifestos
 * [اتحاد جوانان محلات ایران](https://twitter.com/UYI_fa/status/1602669174253563904)
 ### Political Parties
-
+* [ جنبش جمهوری خواهان دموکرات و لائیک ایران](http://nedayeazady.org/)
+* [اتحاد جمهوری‌خواهان ایران](http://jomhouri.com/jomhouri/)
+* [حزب سوسیال دموکرات و لائیک ایران](https://rangin-kaman.net/)
 ### Democracy Advocates
 * [Masih Alinejad](https://twitter.com/AlinejadMasih)
 
