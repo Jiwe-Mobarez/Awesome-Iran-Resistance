@@ -21,6 +21,7 @@ If u wanna help contact me on here or reddit [u/jiwe-mobarez](https://old.reddit
 * [Arzeshi Yab](https://www.arzeshiyab.com/): a tool to block all regime supporters in twitter.
 * [اطلس زندان های ایران](https://ipa.united4iran.org/en/)
 * [list of all known prisoners-persian-translation needed](https://docs.google.com/spreadsheets/d/1uhfm9FWCcB7qw_i7LpJiP219CxXf_nPC8UiM_X-IQgk/edit#gid=1028452535)
+* [Iran Human Rights Memorial](https://www.iranrights.org/memorial/browse/date)
 ##### Content Creation
 * [revolutionary posters google drive](https://drive.google.com/drive/folders/1x5ltclswHy8zhv-gbR3FK8GfhNfmoB_t): a collection of a few revolutiornary posters i found a while back
 #### Trusted News Sources
